@@ -71,16 +71,6 @@ def Submit():
         f.write(pcour+"\n")
         f.write(nt+"\n")
 
-
-
-
-
-
-
-
-
-
-
 s_name=StringVar()
 f_name=StringVar()
 cont=StringVar()
