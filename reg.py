@@ -14,7 +14,7 @@ def reset():
     cbu.set(0)
     gender.set(0)
 
-
+#developed by saheb
 
 
 sk=Tk()
